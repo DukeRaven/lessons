@@ -8,7 +8,4 @@ public class InvalidAverageScoreException extends MyException {
         super(message);
     }
 
-    public InvalidAverageScoreException() {
-        super();
-    }
 }

@@ -8,7 +8,4 @@ public class InvalidTeacherYearsException extends MyException {
         super(message);
     }
 
-    public InvalidTeacherYearsException() {
-        super();
-    }
 }
